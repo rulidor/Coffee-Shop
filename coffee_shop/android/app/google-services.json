@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "930777950210",
+    "project_id": "coffee-shop-cdfac",
+    "storage_bucket": "coffee-shop-cdfac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930777950210:android:958d06766cf312844f9f1b",
+        "android_client_info": {
+          "package_name": "com.rulidor.coffee_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930777950210-0fa84cbv0e82notpb0t8l8ki8586tgab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7AO7lCS_x4MsP2GxP9_Ju1ANk7oXL0e4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930777950210-0fa84cbv0e82notpb0t8l8ki8586tgab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
